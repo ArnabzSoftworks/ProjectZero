@@ -1,0 +1,10 @@
+#include stdio.in
+
+Public Clas HW
+{
+  int void main(String Args[])  {
+  
+    System.out.print("HELLO WORLD");
+    return(0);
+    }
+ }
